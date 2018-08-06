@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313048234524",
+    "firebase_url": "https://fir-remoteconfigpoc.firebaseio.com",
+    "project_id": "fir-remoteconfigpoc",
+    "storage_bucket": "fir-remoteconfigpoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313048234524:android:be9a47a2de63f5a2",
+        "android_client_info": {
+          "package_name": "com.lfaiska.firebaseremoteconfigpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313048234524-hvdllo7ap1d9n8o3jjbfdqhsqkhrt9e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lfaiska.firebaseremoteconfigpoc",
+            "certificate_hash": "8c387556c995d29d3e75b6721665929f199bd245"
+          }
+        },
+        {
+          "client_id": "313048234524-36prekc7ojol6nklqd2qf2428rg3egmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_AhaoeaGEIZvT7LGL_s9X0VO2nbHxz3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313048234524-36prekc7ojol6nklqd2qf2428rg3egmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
